@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @princeraj07m
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-princeraj07m/princeraj07m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💫About Me:
+<hr>
+🔭 I'm currently pusuing my btech in cse.
+<br>
+<br>
+🌱 Currently learning:
+<br>
+Frontend development {HTML, CSS, JAVASCRIPT}
+<br>
+<br>
+⚡ Good in:
+<br>
+c, c++, java, python
+<br>
+<br>
+🌐Looking to work on a full stack dev project.
