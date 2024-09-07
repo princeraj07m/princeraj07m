@@ -10,7 +10,7 @@ Backend development
 <br>
 ⚡ Good in:
 <br>
-c, c++, java, python,Frontend development {HTML, CSS, JAVASCRIPT}
+c, c++, R, python,Frontend development {HTML, CSS, JAVASCRIPT}
 <br>
 <br>
 🌐Looking to work on a full stack dev project.
