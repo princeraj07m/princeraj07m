@@ -5,12 +5,12 @@
 <br>
 🌱 Currently learning:
 <br>
-Frontend development {HTML, CSS, JAVASCRIPT}
+Backend development 
 <br>
 <br>
 ⚡ Good in:
 <br>
-c, c++, java, python
+c, c++, java, python,Frontend development {HTML, CSS, JAVASCRIPT}
 <br>
 <br>
 🌐Looking to work on a full stack dev project.
