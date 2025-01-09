@@ -5,12 +5,13 @@
 <br>
 🌱 Currently learning:
 <br>
-Backend development 
+Machine learning &  Deep learning
 <br>
 <br>
 ⚡ Good in:
 <br>
-c, c++, R, python,Frontend development {HTML, CSS, JAVASCRIPT}
+c, c++, R, python,Frontend development {HTML, CSS, JAVASCRIPT, Backend development }
 <br>
 <br>
 🌐Looking to work on a full stack dev project.
+🌐Looking to work on a ML/DL project.
