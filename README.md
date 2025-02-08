@@ -10,7 +10,7 @@ Machine learning &  Deep learning
 <br>
 ⚡ Good in:
 <br>
-c, c++, R, python,Frontend development {HTML, CSS, JAVASCRIPT, Backend development }
+c, c++, R, python,Frontend development {HTML, CSS, JAVASCRIPT}, Backend development 
 <br>
 <br>
 🌐Looking to work on a full stack dev project.
