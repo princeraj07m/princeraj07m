@@ -13,6 +13,6 @@ Machine learning &  Deep learning
 c, c++, R, python,Frontend development {HTML, CSS, JAVASCRIPT}, Backend development 
 <br>
 <br>
-🌐Looking to work on a full stack dev project.
+🌐Looking to work on a full stack BLOCKCHAIN project.
 <br>
 🌐Looking to work on a ML/DL project.
