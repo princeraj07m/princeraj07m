@@ -48,12 +48,18 @@
     <span style="color:#007ACC;">C++ </span> &nbsp;|&nbsp;  
    <span align="left">
     <img src="https://sta.codeforces.com/s/11725/images/codeforces-logo-with-telegram.png" height="30" alt="Codeforces" />
-    <img width="10" />
+    <img width="15" />
     <a href = "https://leetcode.com/u/princeraj07m/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
     </a>
-    <img width="10" />
+    <img width="15" />
+     <a href ="https://www.codechef.com/users/princeraj_07m">
+     <img src="https://cdn.codechef.com/images/cc-logo.svg" height="35" alt="CodeChef" />
+     </a>
+     <img width="15" />
+     <a href = "https://www.hackerrank.com/profile/vtu24374">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
+     </a>
 </span>
   </strong>
 </p>
