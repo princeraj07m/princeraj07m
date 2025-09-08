@@ -100,4 +100,4 @@
 
 ## Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=princeraj07m&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=princeraj07m&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
