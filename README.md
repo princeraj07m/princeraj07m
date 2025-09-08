@@ -101,3 +101,12 @@
 ## Github Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=princeraj07m&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj07m&layout=compact&theme=tokyonight)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=princeraj07m&label=Profile%20Views&color=blue&style=flat)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=princeraj07m&theme=github)
+
