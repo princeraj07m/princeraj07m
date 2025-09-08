@@ -96,3 +96,8 @@
 
 ![snake gif](https://github.com/princeraj07m/princeraj07m/blob/output/github-snake-dark.svg)
 
+
+
+## Github Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=princeraj07m&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
