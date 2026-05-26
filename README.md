@@ -1,16 +1,6 @@
 <h2 align="left">Hi 👋! I'm Prince Kumar, a passionate Software Engineer from India 🇮🇳</h2>
 
 
-<h3>📊 GitHub Stats: </h3>
-<div align="center"> 
-
-![](https://nirzak-streak-stats.vercel.app/?user=princeraj_07m&theme=dark&hide_border=true)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=princeraj_07m&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
 ###
 
 
@@ -84,14 +74,6 @@
 
 ![snake gif](https://github.com/princeraj07m/princeraj07m/blob/output/github-snake-dark.svg)
 
-
-
-## Github Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=princeraj07m&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeraj07m&layout=compact&theme=tokyonight)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princeraj07m&label=Profile%20Views&color=blue&style=flat)
